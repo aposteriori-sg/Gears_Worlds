@@ -1,6 +1,6 @@
 {
-  "allow": {
-    "categories": ["Motor", "Pen (Experimental)"],
-    "blocks": ["move_tank_for"]
+  "deny": {
+    "categories": ["Motor", "Sensor", "Sound", "Radio (Experimental)", "Control", "Logic", "Loops", "Math", "Text", "Lists", "Variables"]
   }
 }
+ 
