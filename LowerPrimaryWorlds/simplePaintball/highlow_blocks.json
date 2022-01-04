@@ -1,0 +1,6 @@
+{
+  "deny": {
+    "categories": ["Motion", "Sensors", "Sound", "Pen (Experimental)", "Radio (Experimental)", "Control", "Logic", "Loops", "Math", "Text", "Lists", "Variables"],
+    "blocks": ["run_motor", "stop_motor", "speed", "position", "reset_motor"]
+  }
+}

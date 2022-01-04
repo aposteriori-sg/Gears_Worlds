@@ -1,0 +1,6 @@
+{
+  "deny": {
+    "categories": ["Sound", "Pen (Experimental)", "Radio (Experimental)", "Control", "Math", "Text", "Lists", "Variables"],
+    "blocks": ["move_tank", "move_steering", "stop", "run_motor", "stop_motor", "speed", "position", "reset_motor", "color_sensor", "ultrasonic_sensor", "gyro_sensor", "reset_gyro", "gps_sensor", "touch_state", "wait_for_state"]
+  }
+}
