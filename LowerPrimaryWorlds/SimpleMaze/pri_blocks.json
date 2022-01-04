@@ -1,6 +1,6 @@
 {
-  "deny": {
+  "allow": {
     "categories": ["Motor", "Pen (Experimental)"],
-    "blocks": ["move_tank", "move_tank_for"]
+    "blocks": ["move_tank_for"]
   }
 }
