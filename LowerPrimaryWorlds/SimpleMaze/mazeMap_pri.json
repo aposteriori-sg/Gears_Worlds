@@ -5,7 +5,7 @@
     "columns": 3,
     "rows": 3,
     "size": 40,
-    "seed": null,
+    "seed": "1",
     "wallHeight": 15,
     "wallThickness": 2,
     "groundFriction": 1,
